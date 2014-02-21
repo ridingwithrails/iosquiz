@@ -1,7 +1,7 @@
 iosquiz
 =======
 
-Quiz App
+Quiz App v0.1
 
 - Illustrates use of NSArray.
 - Project organization.
